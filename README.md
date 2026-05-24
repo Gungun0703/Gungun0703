@@ -11,7 +11,7 @@
 - Git, GitHub, VS Code
 
 ## Projects
-🔹 Add your projects here
+🔹 https://github.com/Gungun0703/Javascriptweather.git
 
 ## Trailhead Profile
 🌟 Salesforce Trailblazer Profile:https://www.salesforce.com/trailblazer/uq98e2nuhsdox2txjg 

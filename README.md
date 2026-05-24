@@ -6,15 +6,23 @@
 🚀 Passionate about building projects and improving problem-solving skills
 
 ## Skills
-- Languages: C, C++, Python, Java
-- Web: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
+- C, C++, Python, Java
+- HTML, CSS, JavaScript
+- Git, GitHub, VS Code
 
+## Projects
+🔹 Add your projects here
+
+## Trailhead Profile
+🌟 Salesforce Trailblazer Profile:https://www.salesforce.com/trailblazer/uq98e2nuhsdox2txjg 
+
+Achievements:
+🏅 29 Badges
+📚 19200 Points
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gungun0703&show_icons=true)
 
-## Connect with me
+## Connect with Me
 LinkedIn: https://www.linkedin.com/in/gungun-garg-423472304/
-Email: gungungarg055@gmail.com
-Trailhead : https://www.salesforce.com/trailblazer/uq98e2nuhsdox2txjg
+Trailhead: https://www.salesforce.com/trailblazer/uq98e2nuhsdox2txjg

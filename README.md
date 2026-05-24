@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Gungun Garg
 
-<!--
-**Gungun0703/Gungun0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at RTU  
+💻 Interested in Software Development, Cloud Computing and Machine Learning  
+🌱 Currently learning Data Structures, Web Development and Open Source  
+🚀 Passionate about building projects and improving problem-solving skills
 
-Here are some ideas to get you started:
+## Skills
+- Languages: C, C++, Python, Java
+- Web: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gungun0703&show_icons=true)
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/gungun-garg-423472304/
+Email: gungungarg055@gmail.com

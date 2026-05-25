@@ -13,7 +13,7 @@
 ## Projects
 🔹 https://github.com/Gungun0703/Javascriptweather.git
 🔹 https://github.com/Gungun0703/HR-Analytics-Dashboard
-
+🔹 https://github.com/Gungun0703/Bank-Loan-Analysis
 ## Trailhead Profile
 🌟 Salesforce Trailblazer Profile:https://www.salesforce.com/trailblazer/uq98e2nuhsdox2txjg 
 
